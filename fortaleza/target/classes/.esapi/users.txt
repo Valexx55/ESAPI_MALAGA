@@ -1,0 +1,10 @@
+# This is the user file associated with the ESAPI library from http://www.owasp.org
+# accountId | accountName | hashedPassword | roles | locked | enabled | csrfToken | oldPasswordHashes | lastPasswordChangeTime | lastLoginTime | lastFailedLoginTime | expirationTime | failedLoginCount
+
+5848102162750545298 | qm2ibyo9 | k9piwuoq1hP+uKLlQ7eT5AqhBb3W18kK/TMBcG1Fj5Oa8fOJCzFxpKWU5JL2RABAnh2UUDd0cOIwJHx4UfZ7kw== |  | unlocked | disabled |  | unknown | 0 | 0 | 0 | 9223372036854775807 | 0
+7679317415911353704 | chd91bug | wVSmL6gzZ5kQkk+uDrC1Z3QJFMYV6iPoYH2EOpr+8wjk3gErVxqRQOfp0MCqDRUVOtNRu8D3K2fvwHrteDXH4Q== |  | unlocked | disabled |  | unknown | 0 | 0 | 0 | 9223372036854775807 | 0
+8097131208321616228 | x7l8nd2b | 87GCwIX8usFnSIG2WUSF19B3UpNDgdMThaDAMxztZ/LP5WLX09nWxjK0xq5RbhA3hi9uU4l4ijSIsB4uRF5E9w== |  | unlocked | disabled |  | unknown | 0 | 0 | 0 | 9223372036854775807 | 0
+7634486356941158274 | 5cuisunv | nLKmPh/4j0fVdlz2oMpRmC/ZZuEPHgcNMO1Fbu2Pm6In11OthBwcAkPHWD83PhK3HkZLYqz2iy9QtUuIpI1oeQ== |  | unlocked | disabled |  | unknown | 0 | 0 | 0 | 9223372036854775807 | 0
+1891512727930443085 | 2qspxqid | QBuuBdS8+5ciwZ2LwhpqJJyTAqbm3VF+Cz1cDVT6d5oI7xzymus8hqzT9ZlcqspkyhiMrLC/3+VDkRm2MqNv8w== |  | unlocked | disabled |  | unknown | 0 | 0 | 0 | 9223372036854775807 | 0
+4072970771571495430 | aths3vww | kFETSm9uLHUE34L5l9yvsqv8kbtSgYR/0CfNIACjbMyynTKbuhZ6fOUT6w1rKqvc1EIMQglvfHsLe3RGwrqDtA== |  | unlocked | disabled |  | unknown | 0 | 0 | 0 | 9223372036854775807 | 0
+4256973037743593069 | gzlksuvo | OQAwwU/AM1GirdgF9BuOXirhoRPYjN7tvp5XCkuMXOPeu3f6cnXdpiKs3mKPcTdoWfKoNJtdxHJMGS2awcaXlA== |  | unlocked | disabled |  | unknown | 0 | 0 | 0 | 9223372036854775807 | 0
